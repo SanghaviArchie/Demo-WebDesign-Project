@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/SanghaviArchie/Demo-WebDesign-Project.git"
   },
-  "type":"module",
+  "type": "module",
   "author": "archie",
   "license": "ISC",
   "bugs": {
